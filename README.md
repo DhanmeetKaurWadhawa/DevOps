@@ -22,9 +22,9 @@ Client Request
        |
     NGINX
        |
-   FastAPI App
-    |       |     
-PostgreSQL Redis
+   FastAPI   App
+    |         |     
+PostgreSQL   Redis
 
 ---
 
