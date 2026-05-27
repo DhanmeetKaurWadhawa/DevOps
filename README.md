@@ -20,13 +20,10 @@ The goal of this assignment is to showcase production deployment practices, infr
 
 Client Request
        |
-       v
     NGINX
        |
-       v
    FastAPI App
-    |       |
-    v       v
+    |       |     
 PostgreSQL Redis
 
 ---
@@ -65,8 +62,6 @@ PostgreSQL Redis
 # Project Structure
 
 ```bash
-project/
-│
 ├── app/
 │   ├── main.py
 │   ├── requirements.txt
