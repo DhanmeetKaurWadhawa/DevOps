@@ -42,20 +42,6 @@ Client Request
 
 ---
 
-# Features
-
-- Dockerized FastAPI application
-- PostgreSQL database integration
-- Redis integration
-- NGINX reverse proxy setup
-- Health check endpoint
-- GitHub Actions automated deployment
-- Environment variable configuration
-- Restart policies
-- Logging strategy
-- Backup strategy documentation
-- Basic production security measures
-
 ---
 
 # Project Structure
